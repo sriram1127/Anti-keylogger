@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\project2\source.cpp(137): warning C4715: 'VKCodes': not all control paths return a value
+  Project2.vcxproj -> D:\Debug\Project2.exe
+  Project2.vcxproj -> D:\Debug\Project2.pdb (Partial PDB)
